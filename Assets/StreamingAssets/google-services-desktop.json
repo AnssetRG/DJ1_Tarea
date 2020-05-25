@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "695451443982",
+    "firebase_url": "https://pruebaupc01-54fbc.firebaseio.com",
+    "project_id": "pruebaupc01-54fbc",
+    "storage_bucket": "pruebaupc01-54fbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695451443982:android:0282fcecb5030ced776d5f",
+        "android_client_info": {
+          "package_name": "com.personal.CuartoChapuzon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695451443982-vet89k2d75em9ahnlt1lhh0bcq18i0mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCErxWBIN9qPupA4JBfuos3QEi2g9tc2Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695451443982-vet89k2d75em9ahnlt1lhh0bcq18i0mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
