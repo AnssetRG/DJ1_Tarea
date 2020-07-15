@@ -98,7 +98,12 @@ public class PlayerJumpScript : MonoBehaviour
             if (other.gameObject.tag == "Platform")
             {
                 //Create new platform
+                GameManager.instane.CreateNewPlatformAndLerp(other.transform.position.x);
             }
+        }
+        if (other.gameObject.tag == "Dead")
+        {
+            GameOverManager.instance.ShowPanel();
         }
     }
 }

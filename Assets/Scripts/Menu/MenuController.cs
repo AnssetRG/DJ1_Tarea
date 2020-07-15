@@ -51,8 +51,7 @@ public class MenuController : MonoBehaviour
 
     void Jugar()
     {
-        Debug.Log("Cargando Juego");
-        //SceneManager.LoadScene("Game");
+        SceneManager.LoadScene("Game");
     }
 
     void AgregarUsuario()
